@@ -1,0 +1,31 @@
+.container {
+    width: 600px;
+    border-radius: 5px;
+    background-color:rgba(197, 189, 189, 0.6);
+    padding: 20px;
+    
+  }
+
+.label{
+    font-size: 20px;
+    padding-right: 50px;
+    padding-left: 60px;
+    padding-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.pad{
+    padding: 10px;
+}
+
+.topic{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+  }
+
+  .whole{
+    padding-left: 30%;
+  }
